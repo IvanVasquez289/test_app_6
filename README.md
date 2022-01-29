@@ -1,5 +1,6 @@
 # README
-sisisi
+Primer test
+sisisi by Ivan Vasquez
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
